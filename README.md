@@ -1,3 +1,3 @@
 Self-taught systems programmer. I mainly program in Rust, though I'm also proficient in JavaScript, Lua(u), and C#.
 
-Extensive experience with Roblox Studio & various other coding platforms.
+Former Roblox game developer & Discord bot developer. Contributor to [monkeytype](https://monkeytype.com/). 1 year of "actual" experience.

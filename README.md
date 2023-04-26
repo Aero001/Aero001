@@ -1,3 +1,3 @@
-Self-taught programmer. I mainly program in Rust, though I'm also proficient in JavaScript, Lua(u), and C#.
+Self-taught programmer. I program applications in Rust, and am proficient in JavaScript and Lua.
 
-Former Roblox game developer (2019 - 21) & Discord bot developer (2021). 1-2 years of "actual" experience.
+Former Roblox game developer (2019 - 21) & Discord bot developer (2021).
